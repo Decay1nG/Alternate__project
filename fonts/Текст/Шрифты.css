@@ -1,0 +1,68 @@
+@font-face {
+    font-family: "Manrope";
+    font-weight: 800;
+    font-style: normal;
+    src: 
+        local("Manrope-ExtraBold"),
+        url(../Текст/Manrope-ExtraBold.woff2) format('woff2'),
+        url(../Текст/Manrope-ExtraBold.woff) format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 700;
+    font-style: normal;
+    src: 
+        local("Manrope-Bold"),
+        url(../Текст/Manrope-Bold.woff2) format('woff2'),
+        url(../Текст/Manrope-Bold.woff) format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 600;
+    font-style: normal;
+    src: 
+        local("Manrope-Semibold"),
+        url(../Текст/Manrope-Semibold.woff2) format('woff2'),
+        url(../Текст/Manrope-Semibold.woff) format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 500;
+    font-style: normal;
+    src: 
+        local("Manrope-Medium"),
+        url(../Текст/Manrope-Medium.woff2) format('woff2'),
+        url(../Текст/Manrope-Medium.woff) format('woff');
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "Manrope";
+    font-weight: 400;
+    font-style: normal;
+    src: 
+        local("Manrope-Regular"),
+        url(../Текст/Manrope-Regular.woff2) format('woff2'),
+        url(../Текст/Manrope-Regular.woff) format('woff');
+    font-display: swap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

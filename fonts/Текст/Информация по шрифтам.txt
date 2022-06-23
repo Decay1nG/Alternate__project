@@ -1,0 +1,96 @@
+навигационная панель:
+
+font-family: Manrope;
+font-size: 16px;
+font-weight: 600;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+
+Роад ассистансе:
+
+font-family: Manrope;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+Номер телефона: 
+
+font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+Куик сервисе:
+
+font-family: Manrope;
+font-size: 24px;
+font-weight: 600;
+line-height: 36px;
+letter-spacing: -0.03em;
+text-align: left;
+
+Большой текст:
+
+font-family: Manrope;
+font-size: 64px;
+font-weight: 800;
+line-height: 84px;
+letter-spacing: -0.03em;
+text-align: left;
+
+Бук сервисе:
+
+font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+Плэй видео:
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 19px;
+letter-spacing: 0em;
+text-align: right;
+
+Ви а опен:
+
+font-family: Manrope;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+Мондей ту фрайдей:
+
+font-family: Manrope;
+font-size: 18px;
+font-weight: 600;
+line-height: 32px;
+letter-spacing: 0em;
+text-align: left;
+
+Ратинг:
+
+font-family: Manrope;
+font-size: 16px;
+font-weight: 500;
+line-height: 24px;
+letter-spacing: 0em;
+text-align: left;
+
+
+
+
+
+
+
+
