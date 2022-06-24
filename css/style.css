@@ -1787,6 +1787,7 @@ body {
 
     .content__title-two {
         font-size: 34px;
+        line-height: 62px;
     }
 
     .content__title-one {
@@ -1794,8 +1795,8 @@ body {
     }
 
     .item-product {
-        font-size: 16px;
-        line-height: 20px;
+        font-size: 13px;
+        line-height: 15px;
     }
 
     .item-product:first-child {
