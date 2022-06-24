@@ -1679,6 +1679,10 @@ body {
     .header__img>img {
         display: none;
     }
+    
+    .header__play {
+        margin-left: 5px;
+    }
 }
 
 @media (max-width: 530px) {
