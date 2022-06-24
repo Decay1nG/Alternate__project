@@ -1838,7 +1838,7 @@ body {
 
     .content__container {
         grid-template: repeat(4, 170px) / repeat(2, 180px);
-        gap: 0px;
+        gap: 6px;
     }
 }
 
