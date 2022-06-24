@@ -1420,7 +1420,7 @@ body {
         transform: translateX(50%);
         opacity: 0;
         transition: all 0.5s;
-        z-index: 110;
+        z-index: -1;
     }
 
     .navbar--open {
